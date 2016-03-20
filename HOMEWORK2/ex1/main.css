@@ -1,0 +1,39 @@
+body {
+	 background-color: #E6E6FA
+}
+img {
+	float: left;
+	margin: 10 10 10px 10px;
+	border-radius: 50%;
+}
+h1 {
+	color: white;
+	text-align: center;
+	letter-spacing: 3px;
+	word-spacing: 10px;
+	text-shadow: 2px 2px 4px green;
+}
+div {
+	clear: left;
+	direction: rtl;
+}
+
+p {
+	text-decoration: underline;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 1.0;
+	
+}
+
+ul {
+	background: #3399ff;
+	padding: 20px;
+}
+ul li {
+	background: #cce5ff;
+	margin: 2px;
+}
+li {
+padding-top: 8px;
+}

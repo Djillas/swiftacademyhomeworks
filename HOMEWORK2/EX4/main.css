@@ -1,0 +1,20 @@
+.floating-box {
+	float:left;
+	border:3px solid green;
+	padding:20px 20px;
+	margin:10px 10px;
+	position:relative;
+}
+
+.after-box{
+	float:left;
+	border: 3px solid red;
+	width:100%;
+}
+
+body
+{
+	width: 600px;
+	height:300px;
+	
+}
